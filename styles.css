@@ -40,6 +40,11 @@ video {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
+.description {
+    margin-bottom: 20px;
+    text-align: left;
+}
+
 .footer {
     margin-top: 20px;
     font-size: 0.9em;
